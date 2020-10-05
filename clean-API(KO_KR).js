@@ -84,4 +84,4 @@ registerOverride("청소", [{type: "enum", name: "onhand", optional: false, enum
   }
 });
 
-console.log("clean.js loaded");
+console.log("clean-API(ko).js loaded");
